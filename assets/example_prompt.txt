@@ -1,11 +1,1 @@
-請使用 military-fitness-calculator skill，產出一個完整的體能測驗計算器網頁工具。
-
-使用者設定：
-- 性別：男
-- 年齡層：青年期（19–29 歲）
-- 測驗項目：
-  - 上肢肌群：伏地挺身 38 下
-  - 腹部核心：仰臥起坐 40 下
-  - 心肺耐力：3000 公尺跑步 15 分 10 秒
-
-請根據以上成績，判定是否合格、計算與標準的差距，並透過 Claude API 提供個人化一週訓練建議，最終輸出可部署於 GitHub Pages 的單一 index.html 檔。
+使用 military-fitness-calculator skill，產出一個完整的體能測驗計算器網頁工具。請根據以上成績，判定是否合格、計算與標準的差距，並透過 Claude API 提供個人化一週訓練建議，最終輸出可部署於 GitHub Pages 的單一 index.html 檔。
